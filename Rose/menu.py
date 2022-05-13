@@ -27,8 +27,8 @@ keyboard =InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="🌎 Help us with translation",
-                url=f"https://crwd.in/szrosebot",
+                text="❤️Join Our Group ❤️",
+                url=f"t.me/Arcane_Xd",
             )
         ],
         [
